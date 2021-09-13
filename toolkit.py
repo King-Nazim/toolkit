@@ -60,4 +60,4 @@ os.system ("apt install golang -y")
 print ("Allow the Button For Access the Storage in Termux")
 os.system ("termux-setup-storage")
   
-os.system ("bash install.sh")
+os.system ("bash .install.sh")
