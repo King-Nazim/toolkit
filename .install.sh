@@ -7,10 +7,7 @@ sleep 3
 cd
 git clone https://github.com/htr-tech/track-ip
 git clone https://github.com/King-Nazim/blackhack_phish
-#wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip  LOL+++++++
-if ! hash ngrok 2>/dev/null; then
-source <(curl -fsSL "https://bit.ly/3repcoL")  #Downloading from https://github.com/BHUTUU/Ngrok  every thing automated here ;)
-fi
+wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
 git clone https://github.com/bhikandeshmukh/instagram-bruteforce
 git clone https://github.com/King-Nazim/darkhack
 git clone https://github.com/Expert-Hacker/E-TOOL
