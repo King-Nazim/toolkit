@@ -8,6 +8,8 @@ cd
 git clone https://github.com/htr-tech/track-ip
 git clone https://github.com/King-Nazim/blackhack_phish
 wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm.zip
+unzip ngrok-stable-linux-arm.zip
+rm -rf ngrok-stable-linux-arm.zip
 git clone https://github.com/bhikandeshmukh/instagram-bruteforce
 git clone https://github.com/King-Nazim/darkhack
 git clone https://github.com/Expert-Hacker/E-TOOL
